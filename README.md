@@ -20,3 +20,22 @@ Duration: 2 Month
 Cost: Free
 
 Skill Level: Intermediate
+
+
+
+# Prerequisites and Requirements
+
+The ideal student should have the following skills:
+
+- Programming experience in Python or a willingness to read a little documentation to understand examples and exercises throughout the course.
+- The ability to perform rudimentary system administration on Windows or Unix
+
+At least some experience using a unix shell or Windows PowerShell will be helpful, but is not required.
+
+No prior experience with databases is needed.
+
+
+
+### About MongoDB
+
+This course is developed in conjunction with MongoDB, Inc., the originator and primary contributor to the open source database MongoDB. MongoDB is the leading NoSQL database. Designed for how we build and run applications today, MongoDB empowers organizations to be more agile and scalable. It enables new types of applications, better customer experience, faster time to market and lower costs.
