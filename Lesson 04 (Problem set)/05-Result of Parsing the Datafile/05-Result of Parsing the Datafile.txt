@@ -1,0 +1,8 @@
+Please, enter content of the line that is causing error:
+========================================================
+<?xml version="1.0" encoding="UTF-8"?> 
+
+
+What do you think is the problem?
+=================================
+Defining the xml version and encoding type.
